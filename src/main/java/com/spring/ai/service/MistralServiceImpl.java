@@ -1,0 +1,4 @@
+package com.spring.ai.service;
+
+public class MistralServiceImpl {
+}
